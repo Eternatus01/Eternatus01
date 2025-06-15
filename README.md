@@ -1,5 +1,3 @@
-# 💻 Alexey Kolyupanov - Full Stack Developer
-
 ## 👨‍💻 About Me
 
 <div align="center" style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 5px solid #4cc9f0;">
