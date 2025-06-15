@@ -4,7 +4,7 @@
 
 <div align="center" style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 5px solid #4cc9f0;">
 
-📚 **Education**: 3rd year CS student at KTK (Group 361)  
+📚 **Education**: 3rd year CS student
 💻 **Stack**: Vue 3 • TypeScript • Node.js • Laravel  
 🛠 **Tools**: Docker • Git • Vite • Tailwind  
 🎨 **Specialties**: Canvas API • Data Visualization • Web Performance  
