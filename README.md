@@ -58,19 +58,13 @@
 
 ## 🎨 Canvas API Experience
 
-I have practical experience working with the HTML5 Canvas API, including:
+I'm currently exploring the HTML5 Canvas API and learning fundamentals like:
 
-- Creating interactive data visualizations and animations
-- Implementing custom drawing tools and interfaces
-- Optimizing canvas performance for complex scenes
-- Integrating canvas elements with Vue.js components
-- Developing game mechanics and physics simulations
-
-Example use cases:
-- Custom charts and graphs
-- Image processing and filters
-- Interactive design tools
-- Browser-based games
+- Basic drawing operations (shapes, paths, text)
+- Simple animations and transformations
+- Event handling on canvas elements
+- Pixel manipulation basics
+- Integrating Canvas with Vue.js components
 
 ## 📫 How to Reach Me
 
