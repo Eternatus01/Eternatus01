@@ -2,6 +2,7 @@
 
 ## 👨‍💻 About Me
 
+```javascript
 const alexey = {
   pronouns: "he" | "him",
   education: "KTK, 3rd year student (Group 361)",
