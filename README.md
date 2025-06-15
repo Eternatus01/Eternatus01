@@ -13,7 +13,7 @@ const alexey = {
   databases: ["PostgreSQL", "Supabase"],
   hobbies: ["Coding pet projects", "Learning new tech", "Open source"]
 };
-
+```
 
 ## 🛠 Technical Skills
 
