@@ -2,39 +2,15 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-interface Developer {
-  name: string;
-  education: string;
-  skills: {
-    frontend: string[];
-    backend: string[];
-    tools: string[];
-    architectures: string[];
-  };
-  contact: {
-    email: string;
-    telegram: string;
-    github: string;
-  };
-}
+<div align="center" style="background: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 5px solid #4cc9f0;">
 
-const AlexeyKolyupanov: Developer = {
-  name: "Alexey Kolyupanov",
-  education: "3rd year Computer Science student at KTK (Group 361)",
-  skills: {
-    frontend: ["Vue 3", "JavaScript/TypeScript", "HTML/CSS", "Canvas API"],
-    backend: ["Node.js/Express", "PHP/Laravel"],
-    tools: ["Docker", "Git", "Vite", "TailwindCSS"],
-    architectures: ["Feature-Sliced Design", "MVC", "Component-based"]
-  },
-  contact: {
-    email: "mr.kaa2006@gmail.com",
-    telegram: "@EternatusS",
-    github: "github.com/Eternatus01"
-  }
-};
-```
+📚 **Education**: 3rd year CS student at KTK (Group 361)  
+💻 **Stack**: Vue 3 • TypeScript • Node.js • Laravel  
+🛠 **Tools**: Docker • Git • Vite • Tailwind  
+🎨 **Specialties**: Canvas API • Data Visualization • Web Performance  
+📫 **Contact**: mr.kaa2006@gmail.com | @EternatusS  
+
+</div>
 
 ## 🛠 Technical Skills
 
