@@ -1,7 +1,5 @@
 # 💻 Alexey Kolyupanov - Full Stack Developer
 
-![Profile Banner](https://github.com/Eternatus01/Eternatus01/blob/main/assets/banner.png?raw=true)
-
 ## 👨‍💻 About Me
 
 const alexey = {
