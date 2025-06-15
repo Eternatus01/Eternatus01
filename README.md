@@ -68,11 +68,10 @@ I'm currently exploring the HTML5 Canvas API and learning fundamentals like:
 
 ## 📫 How to Reach Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.kaa2006@gmail.com)
+📧 **Email**: [mr.kaa2006@gmail.com](mailto:mr.kaa2006@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EternatusS)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eternatus01)
 
-📞 Phone: +79080008032
 
 ---
 
