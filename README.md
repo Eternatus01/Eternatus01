@@ -2,16 +2,37 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const alexey = {
-  pronouns: "he" | "him",
-  education: "KTK, 3rd year student (Group 361)",
-  code: ["JavaScript", "TypeScript", "PHP", "HTML/CSS"],
-  frameworks: ["Vue 3", "Express", "Laravel"],
-  tools: ["Docker", "Git", "Vite", "TailwindCSS"],
-  architecture: ["Feature-Sliced Design", "MVC", "Component-based"],
-  databases: ["PostgreSQL", "Supabase"],
-  hobbies: ["Coding pet projects", "Learning new tech", "Open source"]
+```typescript
+interface Developer {
+  name: string;
+  education: string;
+  skills: {
+    frontend: string[];
+    backend: string[];
+    tools: string[];
+    architectures: string[];
+  };
+  contact: {
+    email: string;
+    telegram: string;
+    github: string;
+  };
+}
+
+const AlexeyKolyupanov: Developer = {
+  name: "Alexey Kolyupanov",
+  education: "3rd year Computer Science student at KTK (Group 361)",
+  skills: {
+    frontend: ["Vue 3", "JavaScript/TypeScript", "HTML/CSS", "Canvas API"],
+    backend: ["Node.js/Express", "PHP/Laravel"],
+    tools: ["Docker", "Git", "Vite", "TailwindCSS"],
+    architectures: ["Feature-Sliced Design", "MVC", "Component-based"]
+  },
+  contact: {
+    email: "mr.kaa2006@gmail.com",
+    telegram: "@EternatusS",
+    github: "github.com/Eternatus01"
+  }
 };
 ```
 
